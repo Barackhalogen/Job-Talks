@@ -20,13 +20,13 @@ const Footer = () => {
 
         <div className="flex flex-col items-start justify-between gap-3 w-[100%] md:w-[40%]">
             <div className='flex w-[20%] flex-col justify-start items-center'>
-                <h1 className="text-[30px] head">Travel</h1>
+                <h1 className="text-[30px] head">JobTalks</h1>
                 <img src='/image/arrow.png' alt="logo" className='w-[60px] pl-2 -mt-3 sm:ml-0 sm:w-[100px] cursor-pointer' />
 
             </div>
 
             <p className="text-[16px] leading-[26px] text-[#181433]">
-                Travel helps companies <br /> manage payments easily.
+                JobTalks helps users <br /> connect to Job/Talents easily.
             </p>
 
 
@@ -49,11 +49,11 @@ const Footer = () => {
         </div>
 
         <div className='flex flex-col text-left w-[100%] md:w-[25%] items-start justify-between gap-3 '>
-            <h1 className='text-[#26px] font-bold'>Destinations</h1>
-            <a href="#">Maldives</a>
-            <a href="#">Los Angelas</a>
-            <a href="#">Las Vegas</a>
-            <a href="#">Toronto</a>
+            <h1 className='text-[#26px] font-bold'>Locations</h1>
+            <a href="#">Nigeria</a>
+            <a href="#">Kenya</a>
+            <a href="#">Rwanda</a>
+            <a href="#">Egypt</a>
         </div>
 
         <div className='flex flex-col items-start w-[100%] md:w-[35%] justify-between gap-1'>
