@@ -43,7 +43,7 @@ const [commentStatus, setCommentStatus] = useState(false);
 
         >
             <div className='flex w-[20%] flex-col justify-start items-center'>
-                <h1 className="text-[30px] head">Travel</h1>
+                <h1 className="text-[30px] head">Job</h1>
                 <img src='/image/arrow.png' alt="logo" className='w-[60px] pl-2 -mt-3 sm:ml-0 sm:w-[100px] cursor-pointer' />
 
             </div>
@@ -84,7 +84,8 @@ const [commentStatus, setCommentStatus] = useState(false);
                 <a href="#">Upcomming Packages</a>
             </div>
             <div className="">
-                <button className="bg-[#DF6951] hover:bg-[#c3533c] duration-300 transition text-[#f2f2f2] px-3 py-2 rounded-md">Get in Touch</button>
+                <button className="bg-[#DF6951] hover:bg-[#c3533c] duration-300 transition text-[#f2f2f2] px-3 py-2 rounded-md">Sign Up</button>  
+                <button className="bg-[#DF6951] hover:bg-[#c3533c] duration-300 transition text-[#f2f2f2] px-3 py-2 rounded-md">Log In</button>
             </div>
         </motion.nav>
 
