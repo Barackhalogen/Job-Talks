@@ -26,7 +26,7 @@ const Footer = () => {
             </div>
 
             <p className="text-[16px] leading-[26px] text-[#181433]">
-            JobTalks helps Users <br /> connect to Job easily.
+                Travel helps companies <br /> manage payments easily.
             </p>
 
 
@@ -49,7 +49,7 @@ const Footer = () => {
         </div>
 
         <div className='flex flex-col text-left w-[100%] md:w-[25%] items-start justify-between gap-3 '>
-            <h1 className='text-[#26px] font-bold'>Locations</h1>
+            <h1 className='text-[#26px] font-bold'>Destinations</h1>
             <a href="#">Maldives</a>
             <a href="#">Los Angelas</a>
             <a href="#">Las Vegas</a>

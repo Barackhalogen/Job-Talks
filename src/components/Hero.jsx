@@ -11,7 +11,7 @@ const Hero = () => {
             <img src="../image/herobg.png" alt="Hero Background" className="background-image" />
             <div className="absolute z-[10] w-full  lg:w-[90%] md:mx-auto  gap-2 md:gap-5 flex justify-between items-start flex-col p-4 md:mt-0 mt-5">
                 <img src="../image/vector.png" alt="vector" className='w-[45px] md:w-[100px]' />
-                <h1 className='leading-tight w-full md:w-[50%] font-bold text-[20px] md:text-[55px]  '>Let's connect you to your dream job</h1>
+                <h1 className='leading-tight w-full md:w-[50%] font-bold text-[20px] md:text-[55px]  '>No matter where you're going to, we'll take you there</h1>
                 <div className="hidden md:flex md:w-[50%] flex-row p-4 bg-[#f2f2f270] gap-5 rounded-md justify-between items-center text-[#fff] ">
                     <h1>Search?  </h1> <h1>|</h1>
                     <h1 className='flex flex-row gap-1 items-center'>Job Type <MdOutlineKeyboardArrowDown />  </h1> <h1>|</h1>
@@ -22,7 +22,7 @@ const Hero = () => {
                 </div>
                 <div className='hidden md:flex flex-row items-center w-full gap-5 md:w-[50%]'>
                     <img src="../image/group.png" alt="" />
-                    <p className='text-sm'>2,500 access this site in last 24 hours</p>
+                    <p className='text-sm'>2,500 people booked Tomomorowland Event in last 24 hours</p>
                 </div>
             </div>
         </div>
